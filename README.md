@@ -35,4 +35,8 @@ After making the ERD, I was then used it to make a Table Schema for each of the 
 
 ![SQLcategory](https://github.com/Hluu1/Crowdfunding_ETL/assets/125692186/80a24c99-d573-471b-8a42-4462b44df28c)  ![SQLsubcategory](https://github.com/Hluu1/Crowdfunding_ETL/assets/125692186/1bfbbdfb-03ea-4752-98e0-d39fca5a525d)
 
+![SQLcontacts](https://github.com/Hluu1/Crowdfunding_ETL/assets/125692186/33d917d1-4bff-4d12-b326-324ff644413b)
+
+![SQLcampaign](https://github.com/Hluu1/Crowdfunding_ETL/assets/125692186/eac66bf7-4ce2-4dda-a5f6-03341d29f62e)
+![SQLcampaign2](https://github.com/Hluu1/Crowdfunding_ETL/assets/125692186/2cc81271-dace-4079-828e-c1349a46fd00)
 
