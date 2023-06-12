@@ -13,3 +13,17 @@ Then with the same data, I was then tasked with making another dataframe called 
 
 ![campaign](https://github.com/Hluu1/Crowdfunding_ETL/assets/125692186/89f3f8b0-4231-488e-9336-8f9d2fe9683c)
 
+
+
+Then for the next part, I was tasked with using data from the file, "contacts.xlsx", in the resource folder, to create another dataframe named "contact". However, for this section I was given two option to do this. The first option was to use Python Dictionaries to clean and sort the data and converting said data into a CSV file. The second option was the same except I was to use regular expressions instead. I opted for the second option as I wasnted to challenge myself as at this time, Regular Expressions was a new concept to me and I wanted to get more practice on it.
+
+Before cleaning out the data, what someone was to see from the data is shown in the followig image.
+
+![beforecleaning](https://github.com/Hluu1/Crowdfunding_ETL/assets/125692186/858bcd9a-b22d-4287-b539-82482744414a)
+
+
+Then after using regular expressions, I was able to dissect the data and clean it. This ultimately made the data looking a lot more fliuid and easy to read while additionally, making it ready for analysis.
+
+![Cleaned](https://github.com/Hluu1/Crowdfunding_ETL/assets/125692186/491a903c-7867-4302-825a-a28c85aed121)
+
+
