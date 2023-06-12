@@ -4,6 +4,4 @@ For the ETL mini project, I practiced building an ETL pipeline using Python, Pan
 
 In the first part, I was tasked with importing the data from "crowdfunding.xlsx" and extracting its data. Once extracted, I then went ahead to clean the data and was tasked to create the Category and Subcategory DataFrames from the data and then, had to export said data as a CSV file.
 
-![Categorydata](https://github.com/Hluu1/Crowdfunding_ETL/assets/125692186/dae2a96e-1673-4d0f-bcdc-631290fd3baa)
-
-![subcategory](https://github.com/Hluu1/Crowdfunding_ETL/assets/125692186/f1dd69cf-0cf0-4d0c-a89b-90626feb1a0c)
+![Categorydata](https://github.com/Hluu1/Crowdfunding_ETL/assets/125692186/dae2a96e-1673-4d0f-bcdc-631290fd3baa) ![subcategory](https://github.com/Hluu1/Crowdfunding_ETL/assets/125692186/f1dd69cf-0cf0-4d0c-a89b-90626feb1a0c)
